@@ -6,3 +6,4 @@
 - Github desktop again...
 - Change password
 - Redo Github desktop
+- Add second factor auth
