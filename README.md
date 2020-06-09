@@ -1,3 +1,3 @@
 # hello_world
-Setup github
-Added OAuth and SSH access
+- Setup github
+- Added OAuth and SSH access
