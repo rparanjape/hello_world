@@ -1,14 +1,2 @@
 # hello_world
-- Setup github
-- Added OAuth and SSH access
-- Test Sourcetree
-- Test again...
-- Github desktop again...
-- Change password
-- Redo Github desktop
-- Add second factor auth
-- Sourcetree again... now with access token & ssh access
-- new key
-- Redo Github desktop
-- delete old key
-- restest source tree
+
