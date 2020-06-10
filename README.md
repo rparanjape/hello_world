@@ -9,3 +9,4 @@
 - Add second factor auth
 - Sourcetree again... now with access token & ssh access
 - new key
+- Redo Github desktop
