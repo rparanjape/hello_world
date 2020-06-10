@@ -10,3 +10,4 @@
 - Sourcetree again... now with access token & ssh access
 - new key
 - Redo Github desktop
+- delete old key
