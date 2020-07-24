@@ -5,17 +5,17 @@
     "cwd": "${workspaceFolder}",
     "tasks": [
         {
-            "label": "install",
-            "args": ["install", "-v", "./..."],
-            "group": "build",
-        },
-        {
-            "label": "run",
+            "label": "1. run",
             "args": ["run", "${file}"],
             "group": "build",
         },
         {
-            "label": "test",
+            "label": "3. install",
+            "args": ["install", "-v", "./..."],
+            "group": "build",
+        },
+        {
+            "label": "2. test",
             "args": ["test", "-v", "./..."],
             "group": "test",
         },
